@@ -1,2 +1,2 @@
-# ColbyAssignment2
-Computer Graphics Assignment 2
+# ColbyAssignment1
+Computer Graphics Assignment 1
